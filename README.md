@@ -18,7 +18,7 @@ The Titanic dataset used for this analysis is publicly available and can be foun
 
 ## Exploratory Data Analysis (EDA)
 
-During the EDA process, I performed the following steps:
+During the EDA process,I performed the following steps:
 
 1. Data Loading and Initial Exploration.
 2. Data Cleaning and Handling Missing Values.
