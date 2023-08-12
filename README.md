@@ -18,7 +18,7 @@ The Titanic dataset used for this analysis is publicly available and can be foun
 
 ## Exploratory Data Analysis (EDA)
 
-During the EDA process, we performed the following steps:
+During the EDA process, I performed the following steps:
 
 1. Data Loading and Initial Exploration.
 2. Data Cleaning and Handling Missing Values.
@@ -29,8 +29,8 @@ During the EDA process, we performed the following steps:
 
 The main files in this project are:
 
-- `titanic.ipynb`: Jupyter Notebook with EDA code
-- `titanic.csv`: Titanic dataset
+- `EDA od Titanic Pessenger Data.ipynb`: Jupyter Notebook with EDA code
+- `train.csv`: Titanic dataset
 
 ## Libraries Used
 
