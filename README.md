@@ -54,6 +54,6 @@ To run the Jupyter Notebook and reproduce the analysis, follow these steps:
 
 ## Author
 
-Bufatima N. K.
+Bufatima N. k.
 - Portfolio: [bufatima-n-k.github.io](https://bufatima-n-k.github.io)
 - LinkedIn: [linkedin.com/in/bufatima-n-k/](https://www.linkedin.com/in/bufatima-n-k/)
